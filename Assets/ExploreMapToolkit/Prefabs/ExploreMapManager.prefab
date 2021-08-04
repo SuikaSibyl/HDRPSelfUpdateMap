@@ -141,7 +141,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 30
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
@@ -555,7 +555,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 1
+      scalar: 3
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -5123,3 +5123,4 @@ MonoBehaviour:
   TrackerCamera: {fileID: 3719679800114584076}
   TrackedPlayer: {fileID: 0}
   PlayerIndicator: {fileID: 3719679800039113940}
+  ExploreRadius: 1
