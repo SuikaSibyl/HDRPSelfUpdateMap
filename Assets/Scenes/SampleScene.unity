@@ -34748,18 +34748,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 3719679800114584076, guid: fd554d3d100bf734ba03090ac467833d, type: 3}
-      propertyPath: orthographic size
-      value: 30
-      objectReference: {fileID: 0}
-    - target: {fileID: 3719679801281029074, guid: fd554d3d100bf734ba03090ac467833d, type: 3}
-      propertyPath: InitialModule.rotation3D
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3719679801281029074, guid: fd554d3d100bf734ba03090ac467833d, type: 3}
-      propertyPath: InitialModule.startSize.scalar
-      value: 3
-      objectReference: {fileID: 0}
     - target: {fileID: 3719679801724866052, guid: fd554d3d100bf734ba03090ac467833d, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -34803,10 +34791,6 @@ PrefabInstance:
     - target: {fileID: 3719679801724866052, guid: fd554d3d100bf734ba03090ac467833d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3719679801724866053, guid: fd554d3d100bf734ba03090ac467833d, type: 3}
-      propertyPath: ExploreRadius
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3719679801724866053, guid: fd554d3d100bf734ba03090ac467833d, type: 3}
       propertyPath: TrackedPlayer
